@@ -1,0 +1,11 @@
+# build output
+apple-calendar-mcp
+apple-calendar-mcp.new
+build/
+
+# local notes and backups
+CLAUDE.local.md
+*.bak
+*.orig
+
+.DS_Store
